@@ -55,7 +55,7 @@ The script deep-scrapes and extracts the following data points securely:
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone [https://github.com/zerocayber/TIK-TOK-OSINT-.git](https://github.com/zerocayber/TIK-TOK-OSINT-.git)
+git clone https://github.com/zerocayber/TIK-TOK-OSINT-.git
 cd TIK-TOK-OSINT-
 pip3 install -r requirements.txt
 python3 OSINT.py
