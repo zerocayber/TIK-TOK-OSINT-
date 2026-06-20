@@ -1,34 +1,47 @@
-# 👋 Hi, I'm @zerocayber! 🚀
+# 🔍 TikTok OSINT – User Info
 
-### 🔍 Cyber Security Enthusiast & OSINT Developer
-Welcome to my GitHub profile! I specialize in creating automation tools, Open Source Intelligence (OSINT) scripts, and exploring cybersecurity realms.
-
----
-
-## ⚡ About Me
-* 🌐 **My Domain:** Cyber Security, Ethical Hacking, & Automation.
-* 🛠️ **Current Project:** Developed and maintaining advanced OSINT tools like `TIK-TOK-OSINT`.
-* 💬 **Ask me about:** OSINT, Python automation, and security analysis.
-* 📫 **How to reach me:** Check my official support links below!
+An advanced and multi-threaded Open Source Intelligence (OSINT) tool engineered to automate the process of gathering, extracting, and analyzing public intelligence from TikTok profiles.
 
 ---
 
-## 🚀 Featured Tools
-### 🔍 [TIK-TOK-OSINT](https://github.com/zerocayber/TIK-TOK-OSINT)
-An advanced and multi-threaded Open Source Intelligence tool engineered to automate the process of gathering and analyzing public intelligence from TikTok profiles.
-
----
-
-## 📡 Support & Official Links
-For updates, new tool deployments, and official communication:
-
-* 📢 **Telegram CyberHub Channel:** [Join Here](https://t.me/CYBERHUB2026)
-* 💬 **Telegram Contact Handle:** [@Z_LL_Z](https://t.me/Z_LL_Z)
-* 📸 **Instagram Account:** [Follow Here](https://www.instagram.com/__z08s/#)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerocayber&show_icons=true&theme=radical" alt="zerocayber's GitHub Stats" />
+## 📸 Tool Interface
+<p align="center">
+  <img width="907" height="433" alt="Interface 1" src="https://github.com/zerocayber/TIK-TOK-OSINT-/blob/main/image_959bb9.jpg?raw=true" />
 </p>
+
+---
+
+## ⚡ Tool Functions (Account Information Collection)
+The script deep-scrapes and extracts the following data points securely:
+* 👤 **Username & Nickname**
+* 🆔 **User ID**
+* 📊 **Number of Followers & Following**
+* 🎥 **Number of Videos**
+* 🌍 **Country / Region**
+* 📧 **Account Email (If Publicly Available)**
+* 📱 **Device/Phone Type Info**
+
+---
+
+## 🚀 Installation & Usage
+
+### 1️⃣ Linux / Kali Linux
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone [https://github.com/zerocayber/TIK-TOK-OSINT-.git](https://github.com/zerocayber/TIK-TOK-OSINT-.git)
+------------------------------------------------------------------------------------
+apt update && apt upgrade -y
+pkg install python git -y
+git clone [https://github.com/zerocayber/TIK-TOK-OSINT-.git](https://github.com/zerocayber/TIK-TOK-OSINT-.git)
+cd TIK-TOK-OSINT-
+pip install -r requirements.txt
+python OSINT.py
+-------------------------------------------------------------------------------------------
+git clone [https://github.com/zerocayber/TIK-TOK-OSINT-.git](https://github.com/zerocayber/TIK-TOK-OSINT-.git)
+cd TIK-TOK-OSINT-
+pip install -r requirements.txt
+python OSINT.py
+cd TIK-TOK-OSINT-
+pip3 install -r requirements.txt
+python3 OSINT.py
