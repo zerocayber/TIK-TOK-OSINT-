@@ -30,10 +30,7 @@ An advanced and multi-threaded Open Source Intelligence (OSINT) tool engineered 
 ---
 
 ## 📸 Tool Interface
-<p align="center">
-  <img width="907" height="433" alt="Interface 1" src="https://github.com/zerocayber/TIK-TOK-OSINT-/blob/main/image_959bb9.jpg?raw=true" />
-</p>
-
+<<img width="640" height="640" alt="5920435452458503261_99" src="https://github.com/user-attachments/assets/2513db55-320b-4a12-885d-3492e6e94fb8" />
 ---
 
 ## ⚡ Tool Functions (Account Information Collection)
